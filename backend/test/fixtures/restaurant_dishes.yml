@@ -1,0 +1,39 @@
+orchid_pad_thai:
+  restaurant: thai_orchid
+  dish: pad_thai
+
+orchid_tom_yum:
+  restaurant: thai_orchid
+  dish: tom_yum
+
+basil_pad_thai:
+  restaurant: thai_basil
+  dish: pad_thai
+
+basil_tom_yum:
+  restaurant: thai_basil
+  dish: tom_yum
+
+bangkok_pad_thai:
+  restaurant: bangkok
+  dish: pad_thai
+
+bangkok_tom_yum:
+  restaurant: bangkok
+  dish: tom_yum
+
+lemongrass_pad_thai:
+  restaurant: lemongrass
+  dish: pad_thai
+
+sf_pad_thai:
+  restaurant: sf_thai
+  dish: pad_thai
+
+sf_tom_yum:
+  restaurant: sf_thai
+  dish: tom_yum
+
+burger_hamburger:
+  restaurant: burger_joint
+  dish: hamburger

@@ -1,0 +1,2 @@
+# Intentionally empty: tests issue tokens with ApiToken.issue!. Keeping this
+# file makes Rails clear the table before each run.

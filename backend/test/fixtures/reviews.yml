@@ -1,0 +1,3 @@
+# Intentionally empty: tests create reviews with add_reviews/Review.create! so
+# that cached ratings stay consistent. Keeping this file makes Rails clear the
+# table before each run.

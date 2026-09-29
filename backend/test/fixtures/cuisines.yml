@@ -1,0 +1,9 @@
+thai:
+  name: Thai
+  emoji: 🇹🇭
+  dishes_count: 3
+
+american:
+  name: American
+  emoji: 🇺🇸
+  dishes_count: 2

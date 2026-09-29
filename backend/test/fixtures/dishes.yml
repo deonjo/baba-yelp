@@ -1,0 +1,28 @@
+pad_thai:
+  cuisine: thai
+  name: Pad Thai
+  aliases: Phat Thai
+  description: Stir-fried rice noodles.
+  restaurant_dishes_count: 5
+
+tom_yum:
+  cuisine: thai
+  name: Tom Yum Soup
+  aliases: Tom Yam, Tom Yum Goong
+  restaurant_dishes_count: 4
+
+green_curry:
+  cuisine: thai
+  name: Green Curry
+  restaurant_dishes_count: 0
+
+hamburger:
+  cuisine: american
+  name: Hamburger
+  aliases: Burger
+  restaurant_dishes_count: 1
+
+hot_dog:
+  cuisine: american
+  name: Hot Dog
+  restaurant_dishes_count: 0

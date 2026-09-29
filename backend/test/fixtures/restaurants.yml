@@ -1,0 +1,64 @@
+# Distances are from FREMONT (see test_helper.rb).
+
+# 0.22 mi
+thai_orchid:
+  name: Thai Orchid Kitchen
+  address: 39170 State St
+  city: Fremont
+  state: CA
+  zip_code: "94538"
+  phone: (510) 555-0101
+  latitude: 37.5508
+  longitude: -121.9861
+  restaurant_dishes_count: 2
+
+# 0.17 mi: rounds to the same 0.2 mi as Thai Orchid
+thai_basil:
+  name: Thai Basil Express
+  address: 39180 State St
+  city: Fremont
+  state: CA
+  zip_code: "94538"
+  latitude: 37.5503
+  longitude: -121.9868
+  restaurant_dishes_count: 2
+
+# 0.88 mi
+bangkok:
+  name: Bangkok Street Eats
+  address: 37480 Fremont Blvd
+  city: Fremont
+  state: CA
+  zip_code: "94536"
+  latitude: 37.5575
+  longitude: -121.9998
+  restaurant_dishes_count: 2
+
+# 3.98 mi, Pad Thai only
+lemongrass:
+  name: Lemongrass & Lime
+  address: 43430 Mission Blvd
+  city: Fremont
+  state: CA
+  latitude: 37.5305
+  longitude: -121.9195
+  restaurant_dishes_count: 1
+
+# ~27 mi
+sf_thai:
+  name: Mission Street Thai
+  address: 2600 Mission St
+  city: San Francisco
+  state: CA
+  latitude: 37.7550
+  longitude: -122.4190
+  restaurant_dishes_count: 2
+
+burger_joint:
+  name: Mission Peak Burgers
+  address: 43360 Mission Blvd
+  city: Fremont
+  state: CA
+  latitude: 37.5297
+  longitude: -121.9205
+  restaurant_dishes_count: 1
